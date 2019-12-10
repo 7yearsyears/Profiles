@@ -20,12 +20,6 @@ USER-AGENT,SoundCloud*,GlobalMedia
 DOMAIN-SUFFIX,p-cdn.us,GlobalMedia
 DOMAIN-SUFFIX,sndcdn.com,GlobalMedia
 DOMAIN-SUFFIX,soundcloud.com,GlobalMedia
-# > Spotify
-USER-AGENT,Spotify*,GlobalMedia
-DOMAIN-SUFFIX,pscdn.co,GlobalMedia
-DOMAIN-SUFFIX,scdn.co,GlobalMedia
-DOMAIN-SUFFIX,spotify.com,GlobalMedia
-DOMAIN-SUFFIX,spoti.fi,GlobalMedia
 # > TIDAL
 USER-AGENT,TIDAL*,GlobalMedia
 DOMAIN-SUFFIX,tidal.com,GlobalMedia
